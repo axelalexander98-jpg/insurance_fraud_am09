@@ -8,3 +8,4 @@ matplotlib==3.10.6
 joblib==1.5.2 
 dill==0.4.0
 lime==0.2.0.1
+category-encoders==2.8.1 
